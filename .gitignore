@@ -1,0 +1,25 @@
+# Office 临时锁文件
+~$*
+# Windows 缩略图与桌面配置
+Thumbs.db
+Desktop.ini
+
+# 内嵌独立 git 仓库,不纳入外层 notes 仓库
+learning/contest/acm/
+learning/csdiy/cs61A/CS61A-Assignments/
+personal/简历/Chinese-Resume-in-Typst-investment/
+schoolcourse/G3_1/课表/
+# 大于50MB/编译缓存,不上传 GitHub(private 限制: >100MB 硬拒)
+.vs/
+*.ipch
+learning/project/开发项目学习/AGENT/helloagent/Hello-Agents-V1.0.2-20260210.pdf
+learning/project/开发项目学习/AGENT/helloagent/Hello-Agents-V1.0.3-20260717.pdf
+schoolcourse/G2_1/csstructure/计算机组成与嵌入式系统 英文版·第6版 (（加）哈马克（HAMACHERC.）等著 etc.) (Z-Library).pdf
+schoolcourse/G2_1/mclearn/机器学习周志华.pdf
+schoolcourse/G3_1/软考/软件设计师/软件设计师教程（第5版）.pdf
+schoolcourse/G3_1/软考/软件设计师/软件设计师考试冲刺（习题与解答）.pdf
+schoolcourse/G3_1/软考/软件设计师/软件设计师考试同步辅导（考点串讲）.pdf
+# 全部 PDF 不上传(个人资料/课程资料, 保留本地)
+*.pdf
+# VS 编译缓存
+.vs/
